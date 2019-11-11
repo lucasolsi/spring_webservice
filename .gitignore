@@ -29,3 +29,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+.classpath
+.project
+.settings/
+target/
+.mvn/
