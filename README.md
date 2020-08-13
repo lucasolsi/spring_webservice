@@ -1,4 +1,9 @@
-## Simple REST API using Spring
+# Simple REST API using Spring
+
+## Other project components:
+
+* [email-verification-service](https://github.com/lucasolsi/email-verification-service) - Email verificatin service to be deployed to AWS EC2 instance for the email features.
+* [restAssured_spring_webservice](https://github.com/lucasolsi/restAssured_spring_webservice) - REST Assured tests.
 
 Deployed to Amazon AWS. 
 For the project to work, you'll need to rename **example-application.properties** , located at src/main/resources, to **application.properties**.  
